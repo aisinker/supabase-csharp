@@ -19,6 +19,3 @@
 [submodule "Documentation"]
 	path = Documentation
 	url = git@github.com:supabase-community/supabase-csharp.wiki.git
-[submodule "gotrue-csharp"]
-	path = gotrue-csharp
-	url = https://github.com/aisinker/gotrue-csharp.git
