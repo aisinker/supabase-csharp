@@ -3,7 +3,7 @@
 	url = https://github.com/aisinker/gotrue-csharp
 [submodule "modules/postgrest-csharp"]
 	path = modules/postgrest-csharp
-	url = https://github.com/supabase-community/postgrest-csharp
+	url = https://github.com/aisinker/postgrest-csharp
 [submodule "modules/realtime-csharp"]
 	path = modules/realtime-csharp
 	url = https://github.com/supabase-community/realtime-csharp
